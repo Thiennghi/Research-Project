@@ -13,7 +13,7 @@ preliminary security analysis
 and recommendations.
 - Recommend secure coding improvements
 
-Proccess/Methodology 
+# Proccess/Methodology 
 
 ## 1 System Design
 ## BankingDemo
