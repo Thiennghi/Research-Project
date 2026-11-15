@@ -52,8 +52,42 @@ techniques to support research activities. Gained
 practical experience in website development and 
 vulnerability analysis
 
-# Reasrech found 
+# Reasreach found 
 <img width="233" height="164" alt="image" src="https://github.com/user-attachments/assets/d3d34ec0-6993-4c62-abaf-82e401839bf6" />
+
+
+# RECOMMENDATIONS & FUTURE WORK
+• Validate and safely handle user input; use text Content rather than inserting 
+untrusted input with inner HTML.
+• Use HTTPS and TLS to protect data in transit
+• Configure Content Security Policy (CSP) to restrict unauthorized script 
+execution.
+• Enforce authentication and authorization checks.
+• Validate uploaded file type and content where uploads are supported.
+. Redesgin for better banking website
+
+# Background Study 
+- Cross-Site Scripting (XSS): XSS occurs when user-supplied 
+input is executed as code within a user's browser
+
+- SQL Injection: occurs when attackers manipulate database 
+queries through user-controlled input 
+
+- Broken Access Control: occurs when users gain access to 
+resources beyond their authorized 
+
+- Man-in-the-Middle Attack (MITM): occur when an attacker 
+intercepts communication between a user and a web application.
+
+- DoS (Denial-of-Service) attack : occur when attacker launch a 
+floods a server or network with excessive traffic from a single 
+source to make it unavailable.
+
+# Demo Modern Web Guidance (MWG)
+sponsor by google better secuirty for website and devoploment protype as this case I devoplement and security Analysis demo basic 
+# Visit my website (MWG) at 
+https://thiennghi.github.io/Modern-Web-Guidance-MWG-/
+# Vist my Banking Demo at:
 
 
 
