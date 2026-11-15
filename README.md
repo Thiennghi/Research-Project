@@ -87,6 +87,7 @@ source to make it unavailable.
 sponsor by google better secuirty for website and devoploment protype as this case I devoplement and security Analysis demo basic 
 # Visit my website (MWG) at 
 https://thiennghi.github.io/Modern-Web-Guidance-MWG-/
+
 <img width="308" height="440" alt="image" src="https://github.com/user-attachments/assets/0d8b80f5-7a41-45d0-b991-fa8ab7cdf8ef" />
 
 # Vist my Banking Demo at:
