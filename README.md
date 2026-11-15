@@ -4,7 +4,7 @@ During devoplement a website and traditiional coding , devoplers leaving an open
 In this resreach to desgin and investigate Insecurity input validation, and weak 
 access controls possible for any anniversary attack 
 
-# OBjectives for Resreach 
+# Objectives Research
 - Identify common web application 
 vulnerabilities
 - Develop web application prototypes for 
