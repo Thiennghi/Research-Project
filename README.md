@@ -91,7 +91,7 @@ https://thiennghi.github.io/Modern-Web-Guidance-MWG-/
 <img width="308" height="440" alt="image" src="https://github.com/user-attachments/assets/0d8b80f5-7a41-45d0-b991-fa8ab7cdf8ef" />
 
 # Vist my Banking Demo at:
-https://thiennghi.github.io/BankingDemo/
+https://thiennghi.github.io/Research-Project/
 
 <img width="361" height="425" alt="image" src="https://github.com/user-attachments/assets/b02b5f51-e264-4fe5-bdb1-409017b304b3" />
 
